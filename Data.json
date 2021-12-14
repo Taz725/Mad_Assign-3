@@ -1,0 +1,37 @@
+{
+
+  "title": "TAZ",
+  "DataArray":[
+    {
+      "id":1,
+      "username":"Talha",
+      "password": "taz725"
+    },
+
+        {
+      "id":2,
+      "username":"Basit",
+      "password": "basit2"
+    },
+
+        {
+      "id":3,
+      "username":"Abdullah",
+      "password": "ab3"
+    },
+
+        {
+      "id":4,
+      "username":"Saad",
+      "password": "saad4"
+    },
+            {
+      "id":5,
+      "username":"Zia",
+      "password": "zia5"
+    }
+
+  ]
+
+  
+}
